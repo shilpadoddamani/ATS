@@ -1,0 +1,12 @@
+# creat# PyCharm settings
+       #.idea/
+       #
+       ## Python cache files
+       #__pycache__/
+       #*.py[cod]
+       #*.pyo
+       #
+       ## Allure reports
+       #allure-results/
+       #allure-report/ed by virtualenv automatically
+*
